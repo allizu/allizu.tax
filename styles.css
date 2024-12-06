@@ -1,5 +1,5 @@
 body {
-  font-family: 'Georgia', serif; /* Classic, vintage font */
+  font-family: 'Georgia', serif; /* Elegant font */
   background-color: #3e2723; /* Dark coffee background */
   margin: 0;
   padding: 0;
@@ -14,17 +14,16 @@ body {
   background-color: #3e2723;
   border-radius: 10px;
   padding: 30px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Darker shadow for depth */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Darker shadow */
   text-align: center;
   width: 320px;
-  border: 2px solid #bb8f58; /* Coffee gold border for elegance */
 }
 
 h1 {
-  color: #bb8f58; /* Warm golden color for the title */
+  color: #bb8f58; /* Warm golden color */
   font-size: 36px;
   margin-bottom: 20px;
-  font-family: 'Courier New', monospace; /* Retro font */
+  font-family: 'Courier New', monospace;
 }
 
 .form-group {
@@ -47,18 +46,17 @@ input {
 }
 
 button {
-  background-color: #bb8f58; /* Warm gold button */
+  background-color: #bb8f58; /* Golden button */
   color: #3e2723;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
   font-size: 18px;
   cursor: pointer;
-  font-family: 'Courier New', monospace; /* Retro font for button */
 }
 
 button:hover {
-  background-color: #8e6d40; /* Darker golden shade on hover */
+  background-color: #8e6d40; /* Darker golden shade */
 }
 
 .result {
@@ -78,30 +76,13 @@ h2 {
 }
 
 .tax-brackets li {
-  background-color: #f0e5d8; /* Light coffee color */
-  margin: 5px 0;
+  background-color: #ffe0b2; /* Creamy background */
+  margin: 10px 0;
   padding: 10px;
   border-radius: 5px;
   font-size: 18px;
-  font-family: 'Courier New', monospace; /* Retro typewriter feel */
-}
-
-button {
-  background-color: #ff66b2;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  font-size: 18px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #ff3385;
-}
-
-.result {
-  margin-top: 20px;
-  font-size: 20px;
-  color: #ff3385;
+  font-weight: bold;
+  color: #3e2723; /* Dark coffee color for contrast */
+  text-align: left;
+  padding-left: 15px;
 }
